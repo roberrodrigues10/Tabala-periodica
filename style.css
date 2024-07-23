@@ -1,0 +1,589 @@
+#princi{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1000;
+    height: 1000;
+    margin-top: 20px ;
+}
+
+.col {
+    border: 2px solid black; /* Para ver los bordes de los cuadros */
+    width: 40px;
+    height: 60px;
+}
+
+.col-1 {
+    height: 60px;
+    color: black;
+    margin-left: 2px;
+    
+}
+.blanco{
+    background-color: white;
+}
+.correr{
+    margin-top: 6% ;
+    margin-left: 5% ;
+
+}
+.correr1{
+    margin-top: -10% ;
+    margin-left: 0.2% ;
+
+}
+
+.col2    {
+    border: 1px solid black; /* Para ver los bordes de los cuadros */
+    width: 60px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.letra{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 30%;
+    font-size: 20px;
+        font-weight: bold;
+        color: #ffffff;
+
+}
+
+.nombre{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: -18%;
+    font-size: 7px;
+    color: #ffffff;
+}
+.numeroato{
+    margin-left: 84%;
+    margin-top: -118%;
+    font-size: 15px;
+        color: #ffffff;
+}
+.numeroato1-10{
+    margin-left: 100%;
+    margin-top: -118%;
+    font-size: 15px;
+        color: #ffffff;
+}
+.numeroato100{
+    margin-left: 67%;
+    margin-top: -118%;
+    font-size: 15px;
+        color: #ffffff;
+}
+
+.mun{
+    margin-left: -20%;
+    margin-top: -48%;
+    font-size: 8px;
+    color: #ffffff;
+}
+body{
+    background-color: blueviolet;
+}
+.act {
+    font-size: 20px ;   
+    text-shadow: 1px 1px white, -1px -1px white, 1px -1px white, -1px 1px white; /* Sombras para simular el borde blanco */
+    color: black 20px; /* Color del texto */
+    font-weight: bold;
+    margin-left: 15%;
+    padding-top: 20px;
+
+}
+.tablap {
+    font-size: 50px ;   
+    text-shadow: 2px 2px white, -2px -2px white, 2px -2px white, -2px 2px white; /* Sombras para simular el borde blanco */
+    color: red; /* Color del texto */
+    font-weight: bold;
+    margin-left: 30%;
+    margin-top: -3.5%;
+
+}
+
+.separar{
+ padding: 10px ;
+ margin-left: 177px;
+}
+
+div{
+    padding: 1px;
+}
+.numero{
+    margin-bottom: -130%;
+}
+.num1{
+    margin-left: 73%;
+    margin-top: -79%;
+    font-size: 15px;
+    color: #ffffff;
+}
+.mun1{
+    margin-left: 5%;
+    margin-top: -32%;
+    font-size: 8px;
+    color: #ffffff;
+}
+.num2{
+    margin-left: 84%;
+    margin-top: -79%;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.letraMod{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 12px;
+        font-weight: bold;
+        color: #ffffff;
+
+}
+.nombreModal{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+        font-size: 7px;
+        color: #ffffff;
+        margin-top: -11%;
+
+}
+.descripcion{
+    font-style: italic;
+    font-size: 14px;
+}
+.cuad1{
+    margin-left: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cuadradoGrande{
+    margin-left: 23.5%;
+    margin-bottom: -10%;
+    
+}
+.letraMuestra{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 38px;
+    margin-top: 12px;
+        font-weight: bold;
+        color: #ffffff;
+}
+.nombreMuestra{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 12px;
+    margin-top: -12px;
+        color: #ffffff;
+}
+.numMuestra{
+    margin-left: 74%;
+    margin-top: -85%;
+    font-size: 20px;
+    color: #ffffff;
+}
+.munMuestra{
+    margin-left: 5%;
+    margin-top: -28%;
+    font-size: 12px;
+    color: #ffffff;
+}
+hr{
+height: 10px;
+width: 40px;
+}
+.numeroatomi{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    margin-left: 33.2%;
+    margin-top: -34px;
+    color: white; 
+}
+.masaatomica{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    margin-left: 16.6%;
+    margin-top: -34px;
+    color: white; 
+}
+.simboloqui{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    margin-left: 15.8%;
+    margin-top: -34px;
+    color: white; 
+}
+.nombresim{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    margin-left: 18.4%;
+    margin-top: -34px;
+    color: white; 
+}
+.simb{
+    height: 10px;
+    width: 64px;
+}
+.cuadpequeño1{
+    margin-left: 39.5%;
+}
+.cuadpequeño2{
+    margin-left: 39.5%;
+    margin-top: 12px;
+}
+.cuadpequeño3{
+    margin-left: 39.5%;
+    margin-top: 12px;
+}
+.cuadpequeño4{
+    margin-left: 39.5%;
+    margin-top: 12px;
+}
+.cuadpequeño5{
+    margin-left: 39.5%;
+    margin-top: 12px;
+}
+.cuadpequeño6{
+    margin-left: 39.5%;
+    margin-top: 12px;
+}
+.cuadpequeño7{
+    margin-left: 47%;
+    margin-top: -81.5px;
+}
+.cuadpequeño8{
+    margin-left: 47%;
+    margin-top: 12px;
+}
+.cuadpequeño9{
+    margin-left: 47%;
+    margin-top: 12px;
+}
+.cuadpequeño10{
+    margin-left: 47%;
+    margin-top: 12px;
+}
+.cuadpequeño11{
+    margin-left: 47%;
+    margin-top: 12px;
+}
+.alcalino{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 9px;
+    margin-left: 1.5%;
+    margin-top: -12px;
+    color: white; 
+}
+.meta{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 9px;
+    margin-left: 1.7%;
+    margin-top: -12px;
+    color: white; 
+}
+.numero1{
+    font-size: 10px;
+    margin-left: 1%;
+    color: white; 
+    margin-bottom: -41px;
+}
+.numero2{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 86px;
+    position: absolute;
+}
+.numero3{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 147px;
+    position: absolute;
+}
+.numero4{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 212px;
+    position: absolute;
+}
+.numero5{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 272px;
+    position: absolute;
+}
+.numero6{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 333px;
+    position: absolute;
+}
+.numero7{
+    font-size: 10px;
+    margin-left: 0.9%;
+    color: white; 
+    margin-top: 394px;
+    position: absolute;
+}
+.numero1A{
+    font-size: 11px;
+    margin-left: 1.8%;
+    color: white; 
+    margin-top: -17px;
+    position: absolute;
+}
+.numero2A{
+    font-size: 11px;
+    margin-left: 6.3%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero3A{
+    font-size: 11px;
+    margin-left: 11%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero4A{
+    font-size: 11px;
+    margin-left: 15.7%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero5A{
+    font-size: 11px;
+    margin-left: 20.4%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero6A{
+    font-size: 11px;
+    margin-left: 25%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero7A{
+    font-size: 11px;
+    margin-left: 29.6%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero8A{
+    font-size: 11px;
+    margin-left: 34.3%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero9A{
+    font-size: 11px;
+    margin-left: 38.9%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero10A{
+    font-size: 11px;
+    margin-left: 43.6%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero11A{
+    font-size: 11px;
+    margin-left: 48.2%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero12A{
+    font-size: 11px;
+    margin-left: 52.9%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numero13A{
+    font-size: 11px;
+    margin-left: 57.5%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero14A{
+    font-size: 11px;
+    margin-left: 62.2%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero15A{
+    font-size: 11px;
+    margin-left: 66.9%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero16A{
+    font-size: 11px;
+    margin-left: 71.5%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero17A{
+    font-size: 11px;
+    margin-left: 76.2%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numero18A{
+    font-size: 11px;
+    margin-left: 80.8%;
+    color: white; 
+    margin-top: -17px;
+    position: absolute;
+}
+.numeroIA{
+    font-size: 11px;
+    margin-left: 3.2%;
+    color: white; 
+    margin-top: -17px;
+    position: absolute;
+}
+.numeroIIA{
+    font-size: 11px;
+    margin-left: 7.5%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroIIIA{
+    font-size: 11px;
+    margin-left: 12%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroIVB{
+    font-size: 11px;
+    margin-left: 16.7%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroVB{
+    font-size: 11px;
+    margin-left: 21.3%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroVIB{
+    font-size: 11px;
+    margin-left: 25.9%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroVIIB{
+    font-size: 11px;
+    margin-left: 30.5%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroIB{
+    font-size: 11px;
+    margin-left: 49.7%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroIIB{
+    font-size: 11px;
+    margin-left: 54.3%;
+    color: white; 
+    margin-top: 170px;
+    position: absolute;
+}
+.numeroIIIA3{
+    font-size: 11px;
+    margin-left: 58.9%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroIVA3{
+    font-size: 11px;
+    margin-left: 63.7%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroVA3{
+    font-size: 11px;
+    margin-left: 68.3%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroVIA3{
+    font-size: 11px;
+    margin-left: 72.8%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroVIIA3{
+    font-size: 11px;
+    margin-left: 77.5%;
+    color: white; 
+    margin-top: 45px;
+    position: absolute;
+}
+.numeroVIIIA3{
+    font-size: 11px;
+    margin-left: 82.2%;
+    color: white; 
+    margin-top: -17px;
+    position: absolute;
+}
+.lineaIA{
+    font-size: 11px;
+    margin-left: 1.2%;
+    color: white; 
+    margin-top: -35px;
+    position: absolute;
+}
+.linea11A{
+    font-size: 11px;
+    margin-left: 1.2%;
+    color: white; 
+    margin-top: -25.5px;
+    position: absolute;
+}
+
+
+
+
+
